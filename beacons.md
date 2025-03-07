@@ -41,6 +41,10 @@ The destination can be built up to 10 blocks vertically from the base to allow f
 
 
 
+
+
+
+
 ## Activation
 To activate a beacon as a waypoint, simply sneak/crouch on top of it. It will trigger a "click" sound to let you know it is now active as a waypoint.
 
