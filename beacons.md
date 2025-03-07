@@ -24,7 +24,9 @@ For instance, if we wanted to have our <span style="color: red;">red</span> addr
 ![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/f598f6b0-85ee-4ac8-82bc-987bdbb73bba)
 
 
-![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/9016f79d-b15b-4ba8-b31a-5fb66050849c)
+![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/7d57dfd3-9711-4b92-b991-878831de1a60)
+
+
 
 
 
