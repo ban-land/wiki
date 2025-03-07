@@ -23,7 +23,8 @@ For instance, if we wanted to have our <span style="color: red;">red</span> addr
 
 ![image](https://github.com/user-attachments/assets/68673546-67de-44f3-bda3-6b44a1c8a9fc) 
 
-![image](https://github.com/user-attachments/assets/5641baf3-07fc-4a8e-9aec-e7e5274f29d9)
+![image](https://github.com/user-attachments/assets/88122bd7-42d2-49fb-8667-9844ae810a86)
+
 
 
 The most common setup is 2 beacons that have eachother set as destinations.
