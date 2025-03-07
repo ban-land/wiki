@@ -25,13 +25,17 @@ The <span style="color: red;">red</span> blocks show what blocks are used in a b
 
 ## Destinations
 Each waypoint can have one destination address.
+
 To set a destination, simply build the same pattern as the address of your intended destination on the next level upward (above the beacon base).
+
 For instance, if we wanted to have our <span style="color: red;">red</span> addressed beacon teleport us to a <span style="color: blue;">blue</span> addressed beacon, we would construct the other address on top.
 
 ![image](https://github.com/user-attachments/assets/68673546-67de-44f3-bda3-6b44a1c8a9fc) ![image](https://github.com/user-attachments/assets/17c3f8bb-a475-43ea-bb75-7f11b3d161c1)
 
 The most common setup is 2 beacons that have eachother set as destinations.
+
 Simply give them each a unique address, and then set each destination on each as the other's address.
+
 The destination can be built up to 10 blocks vertically from the base to allow for decorative builds.
 
 ![image](https://github.com/user-attachments/assets/e45b9c88-412b-42c7-b2b0-8ce1f598dca7)
