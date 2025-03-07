@@ -4,6 +4,7 @@
 </div>
 
 # Beacon Waypoints
+# Beacon Waypoints
 [Beacons](beacons.md) on ban land serve the purpose of fast travel in addition to their normal abilities
 Given two beacons in different locations, you can link one tp the other (or both together) and teleport between them.
 They work across dimensions, and have no distance limit.
