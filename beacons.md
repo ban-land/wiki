@@ -34,7 +34,8 @@ Simply give them each a unique address, and then set each destination on each as
 The destination can be built up to 10 blocks vertically from the base to allow for decorative builds.
 
 ![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/32695ba7-230e-4dbc-88c1-3851d737352b)
-![image](https://github.com/user-attachments/assets/e530d6fa-4374-4b0a-a4fa-052755896863)
+![image](https://github.com/user-attachments/assets/340861db-ecb5-4461-9e8e-32c9f69b8108)
+
 
 
 ## Activation
