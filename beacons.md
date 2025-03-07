@@ -29,8 +29,7 @@ Simply give them each a unique address, and then set each destination on each as
 
 The destination can be built up to 10 blocks vertically from the base to allow for decorative builds.
 
-![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/b3034d21-5a08-4122-afb9-f2a121e8abac)
-
+![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/d0e90ed3-c450-4b78-bfc2-5d8d482550e2)
 
 ## Activation
 To activate a beacon as a waypoint, simply sneak/crouch on top of it. It will trigger a "click" sound to let you know it is now active as a waypoint.
