@@ -15,15 +15,7 @@ Beacon points are identified by addresses. Each waypoint has a single, unique ad
 
 Adresses are represented in the world by blocks built around the base of the beacon (bordering the [resource blocks]()).
 
-<div style="display: flex; align-items: center;">
-
-<span style="flex: 1;">
-The <span style="color: red;">red</span> blocks show what blocks are used in a beacon address. Any block can be used to create an address, and any number of blocks can be used as well (as long as you can fit them). Because they are unique. once an address is used it cannot be used again by any other beacons until the original is dismantled. The base of the beacon (made of [resource blocks]()) does not count as part of the address, and as such those blocks are ignored. A beacon address can contain air blocks (that is, no block in a space) but it _cannot_ be made entirely of air (no blocks).
-</span>
-
-<img src="https://github.com/user-attachments/assets/0fc6f983-e15b-4a2d-8898-ee055223a885" style="max-width: 200px; margin-left: 15px;">
-
-</div>
+The <span style="color: red;">red</span> blocks show what blocks are used in a beacon address. Any block can be used to create an address, and any number of blocks can be used as well (as long as you can fit them). Because they are unique. once an address is used it cannot be used again by any other beacons until the original is dismantled. The base of the beacon (made of [resource blocks]()) does not count as part of the address, and as such those blocks are ignored. A beacon address can contain air blocks (that is, no block in a space) but it _cannot_ be made entirely of air (no blocks). ![image](https://github.com/user-attachments/assets/0fc6f983-e15b-4a2d-8898-ee055223a885)
 
 ## Destinations
 Each waypoint can have one destination address.
@@ -56,6 +48,3 @@ Keep this in mind when building two-way beacon waypoints, as you want to build e
 If you wish to deactivate a waypoint, simply break the beacon or break a part of the beacon's address.
 
 Similarly, if a beacon’s address is broken or changed you must reactivate it by sneaking/crouching again.
-
-
-
