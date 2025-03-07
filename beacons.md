@@ -22,8 +22,6 @@ To set a destination, simply build the same pattern as the address of your inten
 For instance, if we wanted to have our <span style="color: red;">red</span> addressed beacon teleport us to a <span style="color: blue;">blue</span> addressed beacon, we would construct the other address on top.
 
 ![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/85338ac5-9578-4da1-ab30-441414c1fd4f)
-
-
 ![Digitally enhanced screen shot from "BananaPU"'s video.](https://github.com/user-attachments/assets/7d57dfd3-9711-4b92-b991-878831de1a60)
 
 
