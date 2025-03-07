@@ -6,7 +6,7 @@ Welcome to the **Ban.Land Wiki Archive**, a project dedicated to preserving the 
 Unfortunately, some elements have been lost to time, but this project strives to offer the best possible recreation of the original experience. 🕵️‍♂️⏳
 
 ## 🚀 How to Access
-1. **Visit the Hosted Version:** 🌍 [Ban.Land Archive Link Here]  
+1. **Visit the Hosted Version:** 🌍 [Ban.Land](ban-land.github.io)
 2. **Explore the Wiki:** 🔎 Browse pages, search for lost knowledge, and rediscover history.  
 3. **Contribute to the Restoration:** 🛠️ Have missing data? Help us rebuild!
 
